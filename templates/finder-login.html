@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %} Finder-Login {% endblock %}
+
+{% block content %}
+    <div class="w3-container w3-center">
+        <h1>Anmeldung</h1>
+        <p>
+            Sie müssen sich anmelden, um einen Personenfund bzw. eine Personenobdach zu melden.
+        </p>
+        <div class="w3-container w3-card-4">
+            <form action="#" method="post" class="w3-container">
+                <label for="username">Nutzername</label>
+                <input type="text" name="username" id="username" class="w3-input">
+                <label for="passwort">Passwort</label>
+                <input type="password" name="password" id="passwort" class="w3-input">
+                <input type="submit" value="Annmelden" class="w3-button">
+            </form>
+        </div>
+        <div class="w3-bar w3-center">
+            <a href="/finder" class="w3-button w3-mobile w3-border w3-round-large w3-center">Zurück</a>
+            <a href="/finder/login" class="w3-button w3-mobile w3-border w3-round-large w3-center">Weiter</a>
+        </div>
+    </div>
+
+{% endblock %}
