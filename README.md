@@ -9,7 +9,7 @@ Offensichtlich existierte keine digitale Lösung für dieses Problem (oder sie w
 Die Anwendung ist zweigeteilt. Es gibt den *Sucher* und den *Finder*. Im *Finder* können sowohl staatliche Unterkünfte als auch private Haushalte Personen registrieren, die bei ihnen Obdach gefunden haben. Im *Sucher* können Polizei etc. schauen, ob vermisste Personen in einer staatlichen oder privaten Unterkunft untergekommen sind. Vermisstenanzeigen können so viel schneller bearbeitet (und bestenfalls aufgelöst werden).
 
 ## Technische Umsetzung
-* steht noch nicht endgültig fest, aber ich tendiere zu *Python* mit dem Webframework *Flask*.
+* steht noch nicht endgültig fest, aber hier auf Github wird es einen ersten Prototype mit *Node.js* und *Express.js* geben. Alternativ entsteht dazu auf [Gitlab](https://gitlab.com/moritzott/sucher-und-finder) eine Umsetzung mit *Python* und dem Mikro-Webframework *Flask*.
 
 ## Stand des Projektes
 * Anfang
