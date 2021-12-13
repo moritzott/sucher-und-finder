@@ -1,0 +1,19 @@
+button, a {
+	margin-top:5px;
+
+}
+
+#loginDiv{
+    margin: 0 auto;
+    margin-top: 40px;
+    
+}
+
+input {
+    margin-bottom: 15px;
+}
+
+
+#divLoginButton{
+    margin-top: 30px;
+}

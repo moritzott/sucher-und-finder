@@ -1,0 +1,6 @@
+Nutzertabelle
+Personenregistrierungstabelle
+
+Nutzertabelle:
+nutzer: admin; password = "erRateDasWort44!": 
+nutzer: polizei; password = "567894§dfobqW": 
