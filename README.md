@@ -10,8 +10,8 @@ Die Anwendung ist zweigeteilt. Es gibt den *Sucher* und den *Finder*. Im *Finder
 
 ## Technische Umsetzung
 * steht noch nicht endgültig fest, aber hier auf Github wird es einen Prototypen mit *Node.js*, *Express.js* und *MongoDB* geben, parallel dazu eine Version mit [*PHP* und *MySQL*/*MariaDB*](https://github.com/moritzott/sucher-und-finder-php) und alternativ auch eine Umsetzung mit [*Python*, dem Mikro-Webframework *Flask* und (wahrscheinlich) *PostgreSQL*](https://github.com/moritzott/sucher-und-finder-flask). Im weiteren Verlauf wird sich zeigen, welche Implementierung besser für den Zweck geeignet ist.
-* für einen ersten Proof of Concept wird bei den Prototypen eine SQLITE3-Datenbank zunächst eingesetzt.
-* in diesem Repositorium entstehen erste Umsetzungen mit Node.js, Express.js und MongoDB.
+* für einen ersten Proof of Concept wird bei den Prototypen zunächst eine SQLITE3-Datenbank eingesetzt, die dann bei Weiterführung durch die entsprechenden Datenbanken erstetzt werden.
+* in diesem Repositorium entstehen erste Umsetzungen mit Node.js und Express.js (im weiteren Verlauf mit MongoDB als Datenbank).
 
 ## Stand des Projektes
 * Anfang
